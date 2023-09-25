@@ -40,7 +40,7 @@ After running the project, you will obtain the following results:
 A CSV file containing user reviews, their ratings, and sentiment classifications.
 An analysis of the sentiment distribution among reviewers, including the percentage of positive and negative sentiments.
 
-##Contributions
+## Contributions
 Contributions to this project are welcome. If you have any ideas for improvements or new features, please feel free to submit issues or pull requests.
 
 
